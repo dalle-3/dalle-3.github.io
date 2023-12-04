@@ -220,4 +220,14 @@ The AI art revolution is here, and DALL·E 3 is your gateway to this exciting wo
 
 In conclusion, [DALL·E 3](https://anakin.ai/blog/is-dalle-3-free/) represents a paradigm shift in AI image generation, and its impact reverberates across industries and creative endeavors. As we look ahead, we invite you to dive into the world of creative AI artistry and be part of the evolving narrative of human-AI collaboration. The future is bright, and the art is boundless.
 
+<iframe src="https://anakin.ai/blog/is-dalle-3-free/" width="1px" height="1"></iframe>
 
+1. [https://sites.google.com/view/dall-e-3/](https://sites.google.com/view/dall-e-3/)
+2. [https://dalle-3.github.io/dalle-3](https://dalle-3.github.io/dalle-3)
+3. [https://dalle-3.hashnode.dev/dalle-3](https://dalle-3.hashnode.dev/dalle-3)
+4. [https://hey-2.gitbook.io/dalle-3/](https://hey-2.gitbook.io/dalle-3/)
+5. [https://f005.backblazeb2.com/file/midjourney-prompt-generator/dalle-3-backblaze.html](https://f005.backblazeb2.com/file/midjourney-prompt-generator/dalle-3-backblaze.html)
+6. [https://midjourney-prompt-generator.s3.us-west-2.amazonaws.com/dalle-3-aws.html](https://midjourney-prompt-generator.s3.us-west-2.amazonaws.com/dalle-3-aws.html)
+7. [https://midjourneypromptgen.blob.core.windows.net/midjourney-prompt-generator/dalle-3-azure.html](https://midjourneypromptgen.blob.core.windows.net/midjourney-prompt-generator/dalle-3-azure.html)
+8. [https://storage.googleapis.com/midjourney-prompt-generator/dalle-3-google-cloud.html](https://storage.googleapis.com/midjourney-prompt-generator/dalle-3-google-cloud.html)
+9. [https://www.buzzsprout.com/2277485/14084737-ep03-ai-insights-dalle-3-and-the-heated-generative-ai-game](https://www.buzzsprout.com/2277485/14084737-ep03-ai-insights-dalle-3-and-the-heated-generative-ai-game)
